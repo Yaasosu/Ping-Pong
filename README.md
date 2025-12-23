@@ -1,5 +1,5 @@
 This is PingPong game which i created between 1 PM and 5 PM when i was bored.
-[The library which project based](https://github.com/raysan5/raylib) probably 60 +- procent
+[The library which project based](https://github.com/raysan5/raylib)
 
 
 Material which used:
